@@ -30,7 +30,7 @@ export const MeuPerfil = () => {
 
                     <div className="flex justify- items-end flex-1 h-auto ">
                         <p className="text-[9px] text-black bg-slate-500  font-normal px-6 h-auto py-2">
-                            Tudo posso Naquele que me fortalece! - &copy; 2023 - Bernardo Santos. Todos os direitos Reservados.
+                            Tudo posso naquele que me fortalece! - &copy; 2023 - Bernardo Santos. Todos os direitos Reservados.
                         </p>
                     </div>
                 </div>
