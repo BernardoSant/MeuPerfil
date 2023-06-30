@@ -18,7 +18,7 @@ export const MeuPerfil = () => {
 
                     <div className=" w-full p-4 flex flex-col flex-1">
 
-                        <a className="bg-slate-400 mb-4 p-2 shadow-md shadow-black rounded-3xl text-base font-bold  border-black hover:scale-95 border-2 border-solid" href="https://drive.google.com/file/d/1S4JU7REEktPw1muxmOrXPdivdT_WQEJb/view?usp=drive_link">Curriculo</a>
+                        <a className="bg-slate-400 mb-4 p-2 shadow-md shadow-black rounded-3xl text-base font-bold  border-black hover:scale-95 border-2 border-solid" href="https://drive.google.com/file/d/1S4JU7REEktPw1muxmOrXPdivdT_WQEJb/view?usp=sharing">Curriculo</a>
 
                         <a className=" bg-slate-400 mb-4 p-2 shadow-md shadow-black rounded-3xl text-base font-bold border-black hover:scale-95 border-2 border-solid" href="https://www.linkedin.com/in/bernardo-santos-magalhaes/">Linkedin</a>
 
